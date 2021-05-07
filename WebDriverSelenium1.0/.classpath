@@ -4,6 +4,12 @@
 	<classpathentry kind="src" path="BasicJava"/>
 	<classpathentry kind="src" path="setUpWebDriver"/>
 	<classpathentry kind="src" path="WebDriversCommands"/>
+	<classpathentry kind="src" path="LocatorsAndCommands"/>
+	<classpathentry kind="src" path="JavaAdvance"/>
+	<classpathentry kind="src" path="SwitchesAlertsAndWindows"/>
+	<classpathentry kind="src" path="ActionClass"/>
+	<classpathentry kind="src" path="TestNGFramework"/>
+	<classpathentry kind="src" path="DataBaseConnections"/>
 	<classpathentry kind="lib" path="lib/selenium-server-standalone-3.141.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
