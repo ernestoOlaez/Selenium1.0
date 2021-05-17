@@ -11,7 +11,9 @@
 	<classpathentry kind="src" path="TestNGFramework"/>
 	<classpathentry kind="src" path="DataBaseConnections"/>
 	<classpathentry kind="src" path="TestingTools"/>
+	<classpathentry kind="src" path="TestDataDriven"/>
 	<classpathentry kind="lib" path="lib/selenium-server-standalone-3.141.5.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
